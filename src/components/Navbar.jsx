@@ -11,7 +11,7 @@ function Navbar() {
         <div className="flex flex-shrink-0 items-center text-purple-600 text-4xl">
             {NAV_LOGO}
         </div>
-        <div className="m-8 flex items-center justify-center text-2xl gap-4 pr-20">
+        <div className="m-8 flex items-center justify-center text-2xl gap-4 pr-6">
             <FaLinkedin/>
             <FaGithub/>
             <FaInstagram/>
